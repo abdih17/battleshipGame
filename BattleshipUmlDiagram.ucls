@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.0" icons="true" automaticImage="PNG" always-add-relationships="true" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="Battleship.Battleship" project="CSC142" 
+    file="/CSC142/src/Battleship/Battleship.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1271" width="416" x="1412" y="-495"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="Battleship.BattleshipProtocol.Game" project="CSC142" 
+    file="/CSC142/src/Battleship/BattleshipProtocol.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="281" width="193" x="2771" y="816"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="Battleship.Battleship.DirectListener" project="CSC142" 
+    file="/CSC142/src/Battleship/Battleship.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="215" x="1688" y="1137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="Battleship.BattleshipThread" project="CSC142" 
+    file="/CSC142/src/Battleship/BattleshipThread.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="497" width="229" x="2957" y="1566"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="Battleship.Player" project="CSC142" file="/CSC142/src/Battleship/Player.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1487" width="335" x="1117" y="1566"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="Battleship.Battleship.GameListener" project="CSC142" 
+    file="/CSC142/src/Battleship/Battleship.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="215" x="603" y="816"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="Battleship.Battleship.OptionsListener.SColorListener" project="CSC142" 
+    file="/CSC142/src/Battleship/Battleship.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="215" x="2198" y="1137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Battleship.AttackListener" project="CSC142" 
+    file="/CSC142/src/Battleship/AttackListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="137" width="215" x="308" y="3093"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="Battleship.BattleshipTest" project="CSC142" 
+    file="/CSC142/src/Battleship/BattleshipTest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="124" x="660" y="-495"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="Battleship.BattleshipClient" project="CSC142" 
+    file="/CSC142/src/Battleship/BattleshipClient.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="389" width="171" x="925" y="1137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="Battleship.BattleshipProtocol.Game.LostTurn" project="CSC142" 
+    file="/CSC142/src/Battleship/BattleshipProtocol.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="215" x="2771" y="1137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="Battleship.Battleship.ShipsListener" project="CSC142" 
+    file="/CSC142/src/Battleship/Battleship.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="215" x="1433" y="1137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="Battleship.Battleship.DeployListener" project="CSC142" 
+    file="/CSC142/src/Battleship/Battleship.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="215" x="858" y="816"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="Battleship.BattleshipServer" project="CSC142" 
+    file="/CSC142/src/Battleship/BattleshipServer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="143" x="3207" y="3093"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="Battleship.Battleship.OptionsListener.DoneListener" project="CSC142" 
+    file="/CSC142/src/Battleship/Battleship.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="215" x="2453" y="1137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="Battleship.Battleship.RulesListener" project="CSC142" 
+    file="/CSC142/src/Battleship/Battleship.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="215" x="72" y="816"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="Battleship.BattleshipProtocol" project="CSC142" 
+    file="/CSC142/src/Battleship/BattleshipProtocol.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="209" width="322" x="3028" y="-495"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="Battleship.InternetListener" project="CSC142" 
+    file="/CSC142/src/Battleship/InternetListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="137" width="215" x="1113" y="816"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="Battleship.Battleship.OkListener" project="CSC142" 
+    file="/CSC142/src/Battleship/Battleship.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="215" x="1943" y="1137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="Battleship.Battleship.OptionsListener" project="CSC142" 
+    file="/CSC142/src/Battleship/Battleship.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="215" x="2198" y="816"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="Battleship.Ship" project="CSC142" file="/CSC142/src/Battleship/Ship.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="533" width="187" x="1688" y="3093"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="Battleship.Battleship.BoardListener" project="CSC142" 
+    file="/CSC142/src/Battleship/Battleship.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="215" x="1157" y="1137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="Battleship.Player.CompAttack" project="CSC142" 
+    file="/CSC142/src/Battleship/Player.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="215" x="1433" y="3093"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="Battleship.Battleship.ExitListener" project="CSC142" 
+    file="/CSC142/src/Battleship/Battleship.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="215" x="348" y="816"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="Battleship.Battleship.StatsListener" project="CSC142" 
+    file="/CSC142/src/Battleship/Battleship.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="215" x="1452" y="816"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <dependency id="26">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <association id="27">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="28" name="boats"/>      
+      <multiplicity id="29" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="30">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="7"/>  
+  </nesting>  
+  <nesting id="31">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="20"/>  
+  </nesting>  
+  <dependency id="32">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <association id="33">    
+    <bendpoint x="2740" y="1137"/>    
+    <bendpoint x="2740" y="1566"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="34" name="rafts"/>      
+      <multiplicity id="35" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="36">    
+    <bendpoint x="1718" y="816"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="19"/>  
+  </nesting>  
+  <dependency id="37">    
+    <bendpoint x="894" y="1137"/>    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="38">    
+    <bendpoint x="317" y="816"/>    
+    <bendpoint x="317" y="1137"/>    
+    <bendpoint x="317" y="1566"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <association id="39">    
+    <bendpoint x="1358" y="816"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="40" name="me"/>      
+      <multiplicity id="41" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="42">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="6"/>  
+  </nesting>  
+  <nesting id="43">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="13"/>  
+  </nesting>  
+  <association id="44">    
+    <bendpoint x="1379" y="816"/>    
+    <bendpoint x="1126" y="1137"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="45" name="players"/>      
+      <multiplicity id="46" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="47">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="48" name="users"/>      
+      <multiplicity id="49" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="50">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="24"/>  
+  </nesting>  
+  <dependency id="51">    
+    <bendpoint x="1569" y="1566"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="52">    
+    <bendpoint x="3037" y="1137"/>    
+    <bendpoint x="3037" y="816"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <nesting id="53">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <nesting id="54">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="11"/>  
+  </nesting>  
+  <nesting id="55">    
+    <bendpoint x="1697" y="816"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </nesting>  
+  <dependency id="56">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="57">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <nesting id="58">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="15"/>  
+  </nesting>  
+  <dependency id="59">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="60">    
+    <bendpoint x="1697" y="1566"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <nesting id="61">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="23"/>  
+  </nesting>  
+  <dependency id="62">    
+    <bendpoint x="873" y="1137"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="63">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="64">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="65">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="66">    
+    <bendpoint x="852" y="1137"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="67">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="68">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="69">    
+    <bendpoint x="1402" y="1137"/>    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <nesting id="70">    
+    <bendpoint x="1400" y="816"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="22"/>  
+  </nesting>  
+  <association id="71">    
+    <bendpoint x="3016" y="1137"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="72" name="myThread"/>      
+      <multiplicity id="73" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="74">    
+    <bendpoint x="2698" y="1566"/>    
+    <bendpoint x="2698" y="1137"/>    
+    <bendpoint x="2698" y="816"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="75">    
+    <bendpoint x="2719" y="816"/>    
+    <bendpoint x="2719" y="1137"/>    
+    <bendpoint x="2719" y="1566"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="76">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <nesting id="77">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="16"/>  
+  </nesting>  
+  <dependency id="78">    
+    <bendpoint x="1482" y="1566"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="79">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <nesting id="80">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="25"/>  
+  </nesting>  
+  <nesting id="81">    
+    <bendpoint x="1421" y="816"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="12"/>  
+  </nesting>  
+  <association id="82">    
+    <bendpoint x="3216" y="1566"/>    
+    <bendpoint x="3216" y="1137"/>    
+    <bendpoint x="3216" y="816"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="83" name="p"/>      
+      <multiplicity id="84" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="false"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
